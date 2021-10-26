@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "king"
+  project_description: "ML Lib"
+  organization: "INF800"
+  license: "Apache Software License 2.0"
+  minimal_python_version: 3.7
+  github_name: "INF800"
+  email: "rakeshark22@gmail.com"
+  version: "0.0.0"
+  line_length: "120"
+  create_example_template: "cli"
